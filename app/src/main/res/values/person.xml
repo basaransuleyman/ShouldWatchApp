@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="personImages">
+
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kaoY9Ddm9QPc4AXuZjJ0kY2Avmd.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGkiHXUW6Qrzk5WZ7kqSRdfxCVp.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yq4rYmaTRC5degaOYmJQFpaiho1.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w2pZ8gLqZNguj8cqrDGbMw2Ibj0.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1uFvXHf18NBnlwsJHVaikLXwp9Y.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hErUwonrQgY5Y7RfxOfv8Fq11MB.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzfxLMcBMusKzZp9f1Z9Ags8WML.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gNDWZkr6tST1Z5xcOCUwthY78CN.jpg</item>
+        <item>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lldeQ91GwIVff43JBrpdbAAeYWj.jpg</item>
+
+    </string-array>
+</resources>
